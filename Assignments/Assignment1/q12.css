@@ -1,0 +1,37 @@
+nav {
+  background-color: orange;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav ul li {
+  flex: 1;                 
+}
+
+nav ul li a {
+  display: flex;            
+  justify-content: center;  
+  align-items: center;      
+  padding: 15px 0;         
+  text-decoration: none;
+  color: white;
+  font-size: 17px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+  font-style: oblique;
+}
+
+nav ul li a:hover {
+  background-color:skyblue;
+  color: white;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:italic;
+    color: brown;
+}

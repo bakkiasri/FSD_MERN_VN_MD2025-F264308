@@ -1,0 +1,11 @@
+button{
+    background-color: blueviolet;
+    color: white;
+    padding:15px;
+    border-radius: 6px;
+    border-color: transparent;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}

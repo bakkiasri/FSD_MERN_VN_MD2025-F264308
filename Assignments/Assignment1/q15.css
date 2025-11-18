@@ -1,0 +1,50 @@
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        .container {
+            width: 500px;
+            height: 500px;
+            background-color: #eee;
+            border: 2px solid #aaa;
+            position: relative; 
+            padding: 20px;
+        }
+
+        .box {
+            width: 150px;
+            height: 150px;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+        }
+
+        .static {
+            background-color:blueviolet;
+            position: static; /* default */
+        }
+
+        .relative {
+            background-color: yellow;
+            position: relative;
+            top: 20px;      /* move 20px down */
+            left: 20px;     /* move 20px right */
+        }
+
+        .absolute {
+            background-color: green;
+            position: absolute;
+            bottom: 0;      /* bottom of parent */
+            right: 0;       /* right of parent */
+        }
+
+        .fixed {
+            background-color: red;
+            position: fixed;
+            bottom: 0;      /* bottom of screen */
+            left: 0;        /* left of screen */
+        }

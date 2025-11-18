@@ -1,0 +1,19 @@
+        .nav-inline a {
+            display: inline;
+            margin-right: 20px;
+            text-decoration: none;
+            color: white;
+            background: teal;
+            padding: 5px 10px;
+        }
+
+        /* Navigation menu using display:block */
+        .nav-block a {
+            display: block;
+            text-decoration: none;
+            color: white;
+            background: purple;
+            padding: 10px;
+            margin-bottom: 5px;
+            width: 180px;
+        }

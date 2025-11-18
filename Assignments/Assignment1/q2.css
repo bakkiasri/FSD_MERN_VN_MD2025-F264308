@@ -1,0 +1,32 @@
+table {
+  width:300px;
+  background: #4c2cae;
+  color: white;
+  border-radius: 6px;
+  padding: 20px;
+  text-align: center;
+}
+
+td ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+td ul li {
+  padding: 10px 0;
+  border-bottom: 1px solid black;
+  font-size: 18px;
+  text-align: center;
+}
+
+td ul li:last-child {
+  border-bottom: none;
+}
+.data{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: #4c2cae;
+}
