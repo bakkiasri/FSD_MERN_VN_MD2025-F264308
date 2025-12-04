@@ -1,0 +1,21 @@
+.hero-section {
+  /* background: linear-gradient(135deg, #e8f0ff 0%, #ffffff 100%); */
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.hero-img {
+  max-height: 320px;
+  object-fit: cover;
+}
+
+h3 {
+  letter-spacing: 1px;
+}
+
+.btn {
+  padding: 10px 24px;
+}
+
+body {
+  font-family: "Inter", "Poppins", sans-serif;
+}

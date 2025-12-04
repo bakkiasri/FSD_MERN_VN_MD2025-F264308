@@ -1,0 +1,119 @@
+[
+  {
+    "id": "cse",
+    "name": "Computer Science Engineering",
+    "description": "The CSE department focuses on software, algorithms and computing.",
+    "fullDescription": "The Computer Science and Engineering department provides strong foundations in computation, design and software development, preparing students for careers in software industry and research.",
+    "courses": [
+      "Data Structures & Algorithms",
+      "Operating Systems",
+      "Database Management Systems",
+      "Computer Networks"
+    ],
+    "faculty": [
+      "Dr. Kumar",
+      "Dr. Meena",
+      "Prof. Arjun"
+    ],
+    "labs": [
+      "Programming Lab",
+      "Networks Lab",
+      "DB Lab"
+    ]
+  },
+  {
+    "id": "it",
+    "name": "Information Technology",
+    "description": "Covers modern IT, web and cloud technologies.",
+    "fullDescription": "IT department focuses on application development, web technologies, cloud computing and practical implementations.",
+    "courses": [
+      "Web Technologies",
+      "Cloud Computing",
+      "DevOps"
+    ],
+    "faculty": [
+      "Dr. Priya",
+      "Mr. Suresh"
+    ],
+    "labs": [
+      "Web Lab",
+      "Cloud Lab"
+    ]
+  },
+  {
+    "id": "ece",
+    "name": "Electronics & Communication Engineering",
+    "description": "Covers electronics, communication systems and embedded processors.",
+    "fullDescription": "ECE provides expertise in circuits, signal processing, embedded systems and wireless communications.",
+    "courses": [
+      "Signals & Systems",
+      "Microprocessors",
+      "Communications"
+    ],
+    "faculty": [
+      "Dr. Reddy",
+      "Dr. Saras"
+    ],
+    "labs": [
+      "Electronics Lab",
+      "Embedded Systems Lab"
+    ]
+  },
+  {
+    "id": "mech",
+    "name": "Mechanical Engineering",
+    "description": "Designs mechanical systems and manufacturing processes.",
+    "fullDescription": "Mechanical department focuses on solid mechanics, thermodynamics and CAD/CAM for product design and manufacturing.",
+    "courses": [
+      "Thermodynamics",
+      "Mechanics of Materials",
+      "Machine Design"
+    ],
+    "faculty": [
+      "Prof. Anand",
+      "Dr. Bhatt"
+    ],
+    "labs": [
+      "Thermal Lab",
+      "Mechanics Lab"
+    ]
+  },
+  {
+    "id": "civil",
+    "name": "Civil Engineering",
+    "description": "Covers structural design, construction and geotechnical engineering.",
+    "fullDescription": "Civil Engineering students learn about structures, soil mechanics and sustainable construction practices.",
+    "courses": [
+      "Structural Analysis",
+      "Geotechnical Engineering",
+      "Hydraulics"
+    ],
+    "faculty": [
+      "Dr. Sharma",
+      "Prof. Iyer"
+    ],
+    "labs": [
+      "Concrete Lab",
+      "Soil Mechanics Lab"
+    ]
+  },
+  {
+    "id": "mba",
+    "name": "Master of Business Administration",
+    "description": "Management, finance and entrepreneurship programs.",
+    "fullDescription": "MBA program trains students in leadership, finance, operations and entrepreneurship with industry projects.",
+    "courses": [
+      "Marketing",
+      "Finance",
+      "Operations Management"
+    ],
+    "faculty": [
+      "Dr. Nair",
+      "Ms. Rekha"
+    ],
+    "labs": [
+      "Business Lab",
+      "Simulation Lab"
+    ]
+  }
+]
